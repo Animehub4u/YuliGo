@@ -1,0 +1,13 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [0, 7],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": "8E26VY",
+  "numberOfSkillsUpgrade": 5
+}
